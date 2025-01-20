@@ -1,1 +1,1 @@
-# go-helloworld
+# Simple go helloworld
