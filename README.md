@@ -1,3 +1,3 @@
 # Simple go helloworld
 
-Trigger release
+Simple go Hello World application.
