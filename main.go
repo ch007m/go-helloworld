@@ -1,4 +1,5 @@
-// New dev branch added
+// New dev branch added.
+// Comment 2 added
 package main
 
 import "fmt"
