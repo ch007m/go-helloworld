@@ -93,7 +93,8 @@ brews:
       owner: ch007m
       name: homebrew-helloworld
       branch: main
-      token: "{{ .Env.TAP_GITHUB_TOKEN }}"
+      #token: "{{ .Env.TAP_GITHUB_TOKEN }}"
+      token: "{{ .Env.HOMEBREW_TOKEN }}"
     commit_author:
       name: ch007m
       email: cmoulliard@redhat.com
