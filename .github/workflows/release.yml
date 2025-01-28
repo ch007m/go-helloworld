@@ -25,6 +25,7 @@ jobs:
         with:
           app-id: ${{ vars.GORELEASER_HOMEBREW_APP_ID }}
           private-key: ${{ secrets.GORELEASER_HOMEBREW_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
       - name: Run GoReleaser
         uses: goreleaser/goreleaser-action@v6
         with:
