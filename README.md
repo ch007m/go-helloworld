@@ -1,3 +1,3 @@
 # Simple go helloworld
 
-Simple go Hello World application.
+Simple go Hello World application. Test ...
